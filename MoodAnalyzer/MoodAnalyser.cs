@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MoodAnalyzer
-{
+{ 
     public class MoodAnalyser
     {
         private string message;
